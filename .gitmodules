@@ -1,0 +1,3 @@
+[submodule "gitTask"]
+	path = gitTask
+	url = https://github.com/anujpalsingh/gitTask
